@@ -1,0 +1,31 @@
+form{
+    background-color: #ee00ff;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 10px 10px 10px #000000;
+}
+legend{
+    font-size: 20px;
+    text-align: center;
+    text-shadow: 7px 7px 7px saddlebrown;
+    font-weight: bolder;
+    color: blueviolet;
+}
+input[type=text],input[type=email],input[type=pasword],input[type=number],input[type=tel],select{
+    width: 100%;
+    height: 30px;
+    border-radius: 20px;
+margin-top: 10px;
+    padding-left: 20px;
+    box-shadow: 7px 7px 7px saddlebrown;
+}
+button{
+    background-color: green;
+    width: 30%;
+    height: 30px;
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+}
